@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Script assumes hier.txt is in the current working directory or in the directory where script is being run from
 # create the starter folder and change working directory to the starter folder
 mkdir starter
 cd starter
